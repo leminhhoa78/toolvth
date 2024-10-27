@@ -36,7 +36,7 @@ def hien_thi_intro():
     os.system('cls' if os.name == 'nt' else 'clear')
     intro_messages = [
         "ADMIN MINH HÒA CHÀO BẠN ĐÃ ĐẾN VỚI TOOL 💥",
-        "TOOL HỖ TRỢ DỰ ĐOÁN TỈ SỐ CHÍNH XÁC LÊN ĐẾN 98% ⚠️",
+        "TOOL HỖ TRỢ DỰ ĐOÁN TỈ SỐ CHÍNH XÁC LÊN ĐẾN 90% ⚠️",
         "ADMIN MINH HÒA XIN ĐƯỢC PHÉP BẮT ĐẦU TOOL 💢",
         "NHẬP TÊN PHÒNG VIẾT TẮT MÀ SÁT THỦ ĐÃ VÀO TRẬN TRƯỚC ❗"
         "MUA TOOL VIP CỰC RẺ LIÊN HỆ ZALO 0889550699 🎭"
